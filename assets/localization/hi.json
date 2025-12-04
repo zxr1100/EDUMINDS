@@ -1,0 +1,16 @@
+{
+  "app_name": "विद्याब्रिज",
+  "welcome": "STEM सीखने में आपका स्वागत है",
+  "select_class": "अपनी कक्षा चुनें",
+  "select_language": "अपनी भाषा चुनें",
+  "lets_start": "शुरू करें",
+  "physics": "भौतिकी",
+  "chemistry": "रसायन विज्ञान",
+  "biology": "जीव विज्ञान",
+  "mathematics": "गणित",
+  "take_quiz": "क्विज़ लें",
+  "ask_doubt": "संदेह पूछें",
+  "submit": "जमा करें",
+  "next": "अगला",
+  "back": "पीछे"
+}

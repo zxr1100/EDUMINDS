@@ -1,0 +1,16 @@
+{
+  "app_name": "VidyāBridge",
+  "welcome": "Welcome to STEM Learning",
+  "select_class": "Select Your Class",
+  "select_language": "Select Your Language",
+  "lets_start": "Let's Start",
+  "physics": "Physics",
+  "chemistry": "Chemistry",
+  "biology": "Biology",
+  "mathematics": "Mathematics",
+  "take_quiz": "Take Quiz",
+  "ask_doubt": "Ask Doubt",
+  "submit": "Submit",
+  "next": "Next",
+  "back": "Back"
+}
