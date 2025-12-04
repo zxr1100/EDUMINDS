@@ -14,9 +14,11 @@ class VidyaBridgeApp extends StatelessWidget {
       title: 'VidyāBridge',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.deepPurple,
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: const Color(0xFF667eea),
+        ),
         scaffoldBackgroundColor: const Color(0xFFF7F7F7),
-        fontFamily: 'Roboto',
+        useMaterial3: true,
       ),
       home: const OnboardingScreen(),
     );
